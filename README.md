@@ -1,14 +1,13 @@
 ### Javier Lopez Lopez
-#### Head of Engineering
+#### Software Engineer, Leader and DevOps
 
-With few studies 13 years ago I began to work professionally always being self-taught,the experience through the years in different companies made me increase the quality of my work day by day, becoming a leader of engineering since 6 years
+Software Engineer with 13 years of experience mainly in backend, focused on problem solving, regardless of the stack, I have good experience working with Golang, Python, PHP, Linux, Docker, Kubernetes, Automation (IaC), SQL and NoSQL DB like Postgres, MySQL, Redis, MongoDB, and Memcache.
 
-At the same time I began to be interested in programming in different languages and doing infrastructure, achieving successful migrations to Amazon AWS. My interests in technology have even led me to write code for mobiles using flutter, although lately my interest is focused on containers(Kubernetes/Docker), infrastructure, technical leadership.
+During my career I have led multidisciplinary teams of up to 20 people, and managed teams in different parts of the world.One of my greatest strengths is with the DevOps culture, as I have experience implementing and using Continuous Integration, Kubernetes, AWS, Terraform, Ansible, Docker, ELK, Jenkins among others.
 
-I love to write code in any language, this always will depends of the context, you never could to use php to make a desktop app, I'm proficient in Golang, Python, PHP, Dart, Javascript, NodeJS and C# and their more common frameworks and/or libraries like Gorilla-Toolkit, Gin, Django, Flask, Symfony, Laravel, Flutter, Angular, React, ExpressJS, Hapi among others
+I define myself as self-taught and this has led me to work in other technologies such as C#, TypeScript, React, Angular where I define as beginner.
 
-
-Do you want to improve your IT Team, migrate to AWS, automate your infrastructure, understand Docker, Kubernetes and cloud native world? let's talk
+Software Engineer, Leader and DevOps
 
 https://twitter.com/devjlopez
 
