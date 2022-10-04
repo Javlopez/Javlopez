@@ -5,7 +5,7 @@ Software Engineer with 13 years of experience mainly in backend, focused on prob
 
 During my career I have led multidisciplinary teams of up to 20 people, and managed teams in different parts of the world.One of my greatest strengths is with the DevOps culture, as I have experience implementing and using Continuous Integration, Kubernetes, AWS, Terraform, Ansible, Docker, ELK, Jenkins among others.
 
-I define myself as self-taught and this has led me to work in other technologies such as C#, TypeScript, React, Angular where I define as beginner.
+I define myself as self-taught and this has led me to work in other technologies such as C#, TypeScript, React, Angular among others.
 
 Software Engineer, Leader and DevOps
 
