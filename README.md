@@ -1,16 +1,25 @@
 ### Javier Lopez Lopez
-#### Software Engineer, Leader and DevOps
+**Senior Software Engineer | Tech Lead | DevOps | Open-Source Contributor**
 
-Software Engineer with 13 years of experience mainly in backend, focused on problem solving, regardless of the stack, I have good experience working with Golang, Python, PHP, Linux, Docker, Kubernetes, Automation (IaC), SQL and NoSQL DB like Postgres, MySQL, Redis, MongoDB, and Memcache.
+A highly accomplished and results-oriented Senior Software Engineer with 15+ years of experience architecting, developing, and deploying robust software solutions that drive business growth. Proven ability to lead and manage engineering teams (up to 20 members), implement DevOps best practices, and actively contribute to open-source projects.
 
-During my career I have led multidisciplinary teams of up to 20 people, and managed teams in different parts of the world.One of my greatest strengths is with the DevOps culture, as I have experience implementing and using Continuous Integration, Kubernetes, AWS, Terraform, Ansible, Docker, ELK, Jenkins among others.
+**Core Competencies:**
 
-Open source contributor to rook storage project:  https://github.com/rook/rook/
+*   **Full-Stack Development:** Proficient in Golang, Python, PHP, and JavaScript, with experience across various frameworks (Gin, Django, Flask, Laravel, Symfony, WordPress).
+*   **DevOps & Infrastructure:** Expertise in CI/CD pipelines, Kubernetes, Docker, Terraform, Ansible, AWS (Compute, Databases, Networking, DNS, Containers, CDN, Storage, Developer Tools), ELK stack, Jenkins, Helm Charts, Rook-Ceph Storage, and Linux administration (bash scripting, containerization, and system administration).
+*   **Database Management:** Skilled in SQL and NoSQL databases, including MySQL, PostgreSQL, Redis, MongoDB, and Memcached.
+*   **Leadership & Team Management:** Demonstrated success in leading and mentoring engineering teams, managing projects, and fostering collaborative environments.
+*   **Open-Source Contribution:** Active contributor to the Rook Storage project, showcasing a commitment to the open-source community.
+*   **Solution-Focused (Work Done):** Focused on delivering tangible, functional solutions that solve real-world problems and provide business value. I ensure work is completed effectively and efficiently, with a strong emphasis on delivering results.
+*   **Adaptability:** Easily adapt to new environments, technologies, and teams, quickly integrating and contributing from day one.
+*   **Continuous Improvement:** Continuously seek opportunities to improve projects, proposing innovative solutions and optimizing existing processes. I am proactive in identifying areas for enhancement and implementing effective strategies.
 
-I define myself as self-taught and this has led me to work in other technologies such as C#, TypeScript, React, Angular among others.
+**Key Achievements:**
 
-Software Engineer, Leader and DevOps
+*   Successfully delivered impactful software solutions that have driven growth for numerous companies across diverse industries.
+*   Led and managed engineering teams of up to 20 individuals, fostering high-performing and collaborative environments.
+*   Implemented and maintained robust DevOps infrastructure, significantly improving deployment frequency and reliability.
 
-https://twitter.com/devjlopez
+**Currently Exploring:** Rust and C.
 
-sjavierlopez@gmail.com
+**I am a passionate and dedicated software engineer with a strong track record of delivering high-quality results. I am eager to leverage my skills and experience to contribute to challenging and impactful projects.**
