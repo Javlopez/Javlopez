@@ -1,53 +1,69 @@
-# Javier · Senior Software Engineer
+# Hey, I'm Javier
 
-**15+ years architecting scalable microservices platforms and leading high-performing engineering teams.**
+**Senior Software Engineer** with 15+ years building scalable backend systems and leading engineering teams.
 
-Currently building enterprise-scale event ticketing infrastructure with Go microservices, implementing DDD, Clean Architecture, and advanced distributed systems patterns.
+Currently architecting Go microservices for enterprise event platforms while exploring Rust and contributing to [Rook-Ceph](https://github.com/rook/rook).
 
-## What I Do Best
+## What I Build
 
-**Backend Architecture** · Expert in designing and implementing complex microservices using Go and Python. Specialized in RBAC systems, dependency injection patterns, Redis caching layers, and eliminating N+1 queries through optimized bulk operations.
+🏗️ **Backend Architecture** – Designing high-performance microservices with Go, Python and PHP. Using DDD, Clean Architecture, RBAC, dependency injection, and distributed systems patterns. Built REST and gRPC APIs processing millions of requests daily.
 
-**DevOps & Cloud Infrastructure** · Deep expertise in Kubernetes, Docker, AWS (EKS, EC2, RDS, S3, Lambda), and CI/CD automation (GitHub Actions, ArgoCD, FluxCD, Jenkins). Implemented monitoring solutions using Datadog, Prometheus, and Grafana that reduced MTTR by 60%.
+☁️ **Cloud Infrastructure** – Kubernetes orchestration, AWS (EKS, EC2, RDS, S3, Lambda, CloudFront, Route53), Infrastructure as Code (Terraform, Ansible, Packer), and GitOps deployments (ArgoCD, FluxCD).
 
-**Technical Leadership** · Led engineering teams up to 20 members while maintaining hands-on coding responsibilities. Established engineering culture, implemented Agile/Scrum practices, and built CI/CD pipelines that reduced deployment times from hours to minutes.
+🔄 **Event-Driven Systems** – Architected message-driven architectures using RabbitMQ and AWS SQS for asynchronous processing and microservice communication.
 
-**Performance Engineering** · Track record of critical migrations (Python-to-Go, PHP-to-Python) delivering 40% performance improvements and 60% memory reduction. Specialized in database optimization, caching strategies, and distributed system patterns.
+📊 **Observability & Performance** – Implemented full-stack monitoring with Datadog/Prometheus/Grafana and ELK Stack that reduced MTTR by 60%. Specialized in database optimization, Redis caching strategies, and query performance tuning.
 
-## Recent Technical Highlights
+💾 **Distributed Storage** – Core contributor to Rook-Ceph project. Deep expertise in distributed storage systems, cluster management, and Kubernetes storage integration.
 
-- Architected comprehensive RBAC system with company-scoped permissions and role-based access control
-- Implemented geometry scoring algorithms for venue seat evaluation and dynamic pricing
-- Built Redis-based caching infrastructure for microservice communication optimization
-- Developed bulk endpoint patterns eliminating N+1 queries across multiple services
-- Established Goose-based database migration system with safe rollback capabilities
-- Created background workers for payment transaction processing and inventory management
-- Delivered comprehensive testing strategy (unit, integration, E2E) with CI/CD automation
+🔧 **DevOps Excellence** – Built CI/CD pipelines (GitHub Actions, Jenkins, CircleCI) reducing deployment time from hours to minutes. Implemented zero-downtime deployments and comprehensive testing strategies (unit, integration, E2E).
 
-## Tech Stack
+👥 **Technical Leadership** – Led teams up to 20 engineers while staying hands-on. Established engineering culture, Agile/Scrum practices, and mentored developers across multiple projects.
 
-**Languages:** Go · Python · PHP · JavaScript/TypeScript · Bash
+🤖 **ML/NLP Integration** – Developed microservices integrating custom NLP libraries and AI models using LangChain and prompt engineering techniques.
 
-**Infrastructure:** Kubernetes · Docker · AWS · Terraform · Ansible · Helm
+## Recent Wins
 
-**Databases:** PostgreSQL · MySQL · MongoDB · Redis · Rook-Ceph
+- Architected company-scoped RBAC system with granular role-based permissions
+- Migrated Python services to Go → 40% performance boost, 60% memory reduction
+- Built Redis caching layer eliminating N+1 queries across microservices
+- Optimized database queries processing billions of records, significantly reducing latency
+- Implemented background workers for payment processing and inventory management
+- Established Goose-based migration system with safe rollback capabilities
+- Led cloud migration to AWS optimizing costs and resource management
+- Transitioned legacy apps to containerization (Docker + Kubernetes) improving scalability
 
-**DevOps:** GitHub Actions · ArgoCD · FluxCD · Jenkins · Datadog · Prometheus · Grafana · ELK
+## Tech Arsenal
 
-**Architecture:** Microservices · DDD · Clean Architecture · Event-Driven · gRPC · REST · GraphQL
+**Languages:** Go • Python • PHP • JavaScript/TypeScript • Bash  
 
-**AI/ML:** LangChain · Prompt Engineering · NLP
+**Frameworks:** Gin • Echo • Django • Flask • Laravel • Symfony • WordPress  
+
+**Infrastructure:** Kubernetes • Docker • AWS (Compute, Networking, Storage, CDN) • Terraform • Ansible • Packer • Helm  
+
+**Data Layer:** PostgreSQL • MySQL • Redis • MongoDB • Memcached • Rook-Ceph • AWS RDS  
+
+**Message Queues:** RabbitMQ • AWS SQS  
+
+**DevOps & CI/CD:** ArgoCD • FluxCD • GitHub Actions • Jenkins • CircleCI  
+
+**Observability:** Datadog • Prometheus • Grafana • ELK Stack  
+
+**Architecture:** Microservices • DDD • Clean Architecture • Event-Driven • gRPC • REST • GraphQL  
+
+**AI/ML:** LangChain • NLP • Prompt Engineering  
+
+**Search & Indexing:** Solr  
 
 ## Open Source
 
-Active contributor to [Rook-Ceph](https://github.com/rook/rook) storage orchestration project, enhancing Kubernetes integration and cluster management capabilities.
+Contributor to **[Rook Storage](https://github.com/rook/rook)** – enhancing Ceph-Kubernetes integration, improving documentation, Helm charts, and cluster management capabilities.
 
 ## Currently Exploring
 
-Rust · Advanced AI/ML Applications · Smart Contracts/Blockchain
+Rust • C • Advanced ML/AI Applications • Smart Contracts/Blockchain
 
 ---
 
-💼 **Open to challenging opportunities** in software Engineer, distributed systems, cloud infrastructure, and technical leadership roles.
-
-📫 **Let's connect** if you're building something interesting.
+💼 Open to backend, DevOps, and infrastructure engineering roles  
+📧 sjavierlopez@gmail.com • 🌐 [devjlopez.com](https://devjlopez.com) • 💼 [LinkedIn](https://linkedin.com/in/devjlopez)
