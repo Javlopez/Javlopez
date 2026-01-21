@@ -1,4 +1,3 @@
-### Javier Lopez Lopez
 # Javier · Senior Software Engineer
 
 **15+ years architecting scalable microservices platforms and leading high-performing engineering teams.**
@@ -49,6 +48,6 @@ Rust · Advanced AI/ML Applications · Smart Contracts/Blockchain
 
 ---
 
-💼 **Open to challenging opportunities** in distributed systems, cloud infrastructure, and technical leadership roles.
+💼 **Open to challenging opportunities** in software Engineer, distributed systems, cloud infrastructure, and technical leadership roles.
 
 📫 **Let's connect** if you're building something interesting.
