@@ -1,25 +1,54 @@
 ### Javier Lopez Lopez
-**Senior Software Engineer | Tech Lead | DevOps | Open-Source Contributor**
+# Javier · Senior Software Engineer
 
-A highly accomplished and results-oriented Senior Software Engineer with 15+ years of experience architecting, developing, and deploying robust software solutions that drive business growth. Proven ability to lead and manage engineering teams (up to 20 members), implement DevOps best practices, and actively contribute to open-source projects.
+**15+ years architecting scalable microservices platforms and leading high-performing engineering teams.**
 
-**Core Competencies:**
+Currently building enterprise-scale event ticketing infrastructure with Go microservices, implementing DDD, Clean Architecture, and advanced distributed systems patterns.
 
-*   **Full-Stack Development:** Proficient in Golang, Python, PHP, and JavaScript, with experience across various frameworks (Gin, Django, Flask, Laravel, Symfony, WordPress).
-*   **DevOps & Infrastructure:** Expertise in CI/CD pipelines, Kubernetes, Docker, Terraform, Ansible, AWS (Compute, Databases, Networking, DNS, Containers, CDN, Storage, Developer Tools), ELK stack, Jenkins, Helm Charts, Rook-Ceph Storage, and Linux administration (bash scripting, containerization, and system administration).
-*   **Database Management:** Skilled in SQL and NoSQL databases, including MySQL, PostgreSQL, Redis, MongoDB, and Memcached.
-*   **Leadership & Team Management:** Demonstrated success in leading and mentoring engineering teams, managing projects, and fostering collaborative environments.
-*   **Open-Source Contribution:** Active contributor to the Rook Storage project, showcasing a commitment to the open-source community.
-*   **Solution-Focused (Work Done):** Focused on delivering tangible, functional solutions that solve real-world problems and provide business value. I ensure work is completed effectively and efficiently, with a strong emphasis on delivering results.
-*   **Adaptability:** Easily adapt to new environments, technologies, and teams, quickly integrating and contributing from day one.
-*   **Continuous Improvement:** Continuously seek opportunities to improve projects, proposing innovative solutions and optimizing existing processes. I am proactive in identifying areas for enhancement and implementing effective strategies.
+## What I Do Best
 
-**Key Achievements:**
+**Backend Architecture** · Expert in designing and implementing complex microservices using Go and Python. Specialized in RBAC systems, dependency injection patterns, Redis caching layers, and eliminating N+1 queries through optimized bulk operations.
 
-*   Successfully delivered impactful software solutions that have driven growth for numerous companies across diverse industries.
-*   Led and managed engineering teams of up to 20 individuals, fostering high-performing and collaborative environments.
-*   Implemented and maintained robust DevOps infrastructure, significantly improving deployment frequency and reliability.
+**DevOps & Cloud Infrastructure** · Deep expertise in Kubernetes, Docker, AWS (EKS, EC2, RDS, S3, Lambda), and CI/CD automation (GitHub Actions, ArgoCD, FluxCD, Jenkins). Implemented monitoring solutions using Datadog, Prometheus, and Grafana that reduced MTTR by 60%.
 
-**Currently Exploring:** Rust and C.
+**Technical Leadership** · Led engineering teams up to 20 members while maintaining hands-on coding responsibilities. Established engineering culture, implemented Agile/Scrum practices, and built CI/CD pipelines that reduced deployment times from hours to minutes.
 
-**I am a passionate and dedicated software engineer with a strong track record of delivering high-quality results. I am eager to leverage my skills and experience to contribute to challenging and impactful projects.**
+**Performance Engineering** · Track record of critical migrations (Python-to-Go, PHP-to-Python) delivering 40% performance improvements and 60% memory reduction. Specialized in database optimization, caching strategies, and distributed system patterns.
+
+## Recent Technical Highlights
+
+- Architected comprehensive RBAC system with company-scoped permissions and role-based access control
+- Implemented geometry scoring algorithms for venue seat evaluation and dynamic pricing
+- Built Redis-based caching infrastructure for microservice communication optimization
+- Developed bulk endpoint patterns eliminating N+1 queries across multiple services
+- Established Goose-based database migration system with safe rollback capabilities
+- Created background workers for payment transaction processing and inventory management
+- Delivered comprehensive testing strategy (unit, integration, E2E) with CI/CD automation
+
+## Tech Stack
+
+**Languages:** Go · Python · PHP · JavaScript/TypeScript · Bash
+
+**Infrastructure:** Kubernetes · Docker · AWS · Terraform · Ansible · Helm
+
+**Databases:** PostgreSQL · MySQL · MongoDB · Redis · Rook-Ceph
+
+**DevOps:** GitHub Actions · ArgoCD · FluxCD · Jenkins · Datadog · Prometheus · Grafana · ELK
+
+**Architecture:** Microservices · DDD · Clean Architecture · Event-Driven · gRPC · REST · GraphQL
+
+**AI/ML:** LangChain · Prompt Engineering · NLP
+
+## Open Source
+
+Active contributor to [Rook-Ceph](https://github.com/rook/rook) storage orchestration project, enhancing Kubernetes integration and cluster management capabilities.
+
+## Currently Exploring
+
+Rust · Advanced AI/ML Applications · Smart Contracts/Blockchain
+
+---
+
+💼 **Open to challenging opportunities** in distributed systems, cloud infrastructure, and technical leadership roles.
+
+📫 **Let's connect** if you're building something interesting.
